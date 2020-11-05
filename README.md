@@ -1,4 +1,4 @@
-<h2> Hi, I'm Regalk <img src="https://media.giphy.com/media/l1J9RFoDzCDrkqtEc/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Regalk <img src="https://media.giphy.com/media/2pc14LWinnQrK/giphy.gif" width="50"></h2>
 <br/>
 <a href="https://twitter.com/regalk2">
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
