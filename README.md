@@ -1,10 +1,10 @@
 <h2> Hi, I'm Regalk <img src="https://media.giphy.com/media/l1J9RFoDzCDrkqtEc/giphy.gif" width="50"></h2>
 <br/>
 <a href="https://twitter.com/regalk2">
-  <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
 </a>
 <a href="https://www.instagram.com/regalk_01/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
 
 <img align="right" alt="img" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="50%" height="auto" />
