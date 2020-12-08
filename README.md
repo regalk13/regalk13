@@ -1,4 +1,4 @@
-<h2> Hi, I'm Regalk <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Regalk <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"></h2>
 <br/>
 <a href="https://twitter.com/regalk2">
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
@@ -7,7 +7,7 @@
   <img align="left" alt="Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
 
-<img align="right" alt="img" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="50%" height="auto" />
+<img align="right" alt="img" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="40%" height="auto" />
 
 #### 🌱 Things I am currently working on: 
 - Taking online courses about some languages and tools
