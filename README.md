@@ -25,7 +25,7 @@
 - Learn the basics of JavaScript, TypeScript
 - Learn skills to alexa
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=regalk13" />
+<img width="50%" align="right" src="![Rishit's github stats](https://github-readme-stats.vercel.app/api?username=regalk13&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)" />
 
 ### :computer: Programming languages and tools
 
