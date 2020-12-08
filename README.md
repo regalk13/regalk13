@@ -7,7 +7,7 @@
   <img align="left" alt="Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
 
-<img align="right" alt="img" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="50%" height="auto" />
+<img align="right" alt="img" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="50%" height="auto" />
 
 #### 🌱 Things I am currently working on: 
 - Taking online courses about some languages and tools
