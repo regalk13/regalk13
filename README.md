@@ -15,7 +15,7 @@ continuously learning, wanting to help the community
   <br/>
 </p>
 
-<img align="right" alt="img" src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif" width="50%" height="auto" />
+<img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50%" height="auto" />
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on ...
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/3243_take_my_money.png" height="40px" />  Bot's discord
