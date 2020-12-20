@@ -82,6 +82,3 @@ continuously learning, wanting to help the community
 <img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regalk13&theme=tokyonight&show_icons=true" />
 
 </p>
-
----
-⭐️ From [alexnaiman](https://github.com/alexnaiman)
