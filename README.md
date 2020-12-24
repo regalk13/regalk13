@@ -2,7 +2,7 @@
 
 <p align="center" >
   <samp>
-    My name is <em>Juan</em>. I am a Fullstack developer... 
+    My name is <em>Juan</em>. I am a Fullstack developer & CEO RS Games... 
   <br/> Python enthusiast... Java lover. C addict. 
     <br/> Fulltime student.
       <br/>
