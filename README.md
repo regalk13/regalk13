@@ -6,7 +6,7 @@
   <br/> Python enthusiast... Java lover. C addict. 
     <br/> Fulltime student.
       <br/>
-Creating games for fun, composing songs,
+Creating games for fun, coding all day,
           <br/>
 continuously learning, wanting to help the community
   </samp>
