@@ -1,5 +1,5 @@
 ## <img src="https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif" width="50px" /> Hello!
-
+![](https://komarev.com/ghpvc/?username=regalk13&color=blueviolet)
 <p align="center" >
   <samp>
     My name is <em>Juan</em>. I am a Fullstack developer & CEO RS Games... 
