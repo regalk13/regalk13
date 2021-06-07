@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, python, js stuff, SQL, NO-SQL.**
 
-- 📫 How to reach me **jsalazarcaviedes03@gmail.com**
+- 📫 How to reach me **jsalazarcaviedes30@gmail.com**
 
 - ⚡ Fun fact **I invest my life in programming and learning.**
 
