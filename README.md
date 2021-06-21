@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **The silent Side.**
 
-- 🌱 I’m currently learning **Framkeworks, Haskell, Haxe, etc...**
+- 🌱 I’m currently learning **Frameworks, Haskell, Haxe, etc...**
 
 - 👯 I’m looking to collaborate on **Open Source.**
 
