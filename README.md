@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=regalk13&label=Profile%20views&color=0e75b6&style=flat" alt="regalk13" /> </p>
 
-- 🔭 I’m currently working on **Facial .**
+- 🔭 I’m currently working on **Facial Recognition.**
 
 - 🌱 I’m currently learning **Frameworks, Haskell, Haxe, etc...**
 
