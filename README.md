@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, python, js stuff, SQL, NO-SQL.**
 
-- 📫 How to reach me E-mail-Twitter Dm.
+- 📫 How to reach me Email-Twitter Dm.
 
 - ⚡ Fun fact **I invest my life in programming and learning.**
 
