@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I invest my life in programming and learning.**
 
+- [Music Bot Example](https://gist.github.com/regalk13/d1e98586232e4c1bf5d30d154c8c4570)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/regalk13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="regalk13" height="30" width="40" /></a>
