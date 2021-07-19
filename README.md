@@ -15,7 +15,6 @@
 
 - ⚡ Fun fact **I invest my life in programming and learning.**
 
-- 🤖 [Music Bot Example.](https://gist.github.com/regalk13/d1e98586232e4c1bf5d30d154c8c4570)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
