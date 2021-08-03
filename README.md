@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=regalk13&label=Profile%20views&color=0e75b6&style=flat" alt="regalk13" /> </p>
 
-- 🔭 I’m currently working on **Nes Emulator, Python Chess Engine**
+- 🔭 I’m currently working on **Nes Emulator, Python Chess Engine.**
 
 - 🌱 I’m currently learning **Frameworks, Haskell, Haxe, etc...**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me Email-Twitter Dm.
 
-- ⚡ Fun fact **I invest my life in programming and learning.**
+- ⚡ Fun fact **I use arch btw.**
 
 
 <h3 align="left">Connect with me:</h3>
