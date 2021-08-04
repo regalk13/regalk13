@@ -13,7 +13,7 @@
 
 - 📫 How to reach me Email-Twitter Dm.
 
-- ⚡ Fun fact **I use arch btw.**
+- ⚡ Fun fact **I use arch btw, and qtile.**
 
 
 <h3 align="left">Connect with me:</h3>
