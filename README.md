@@ -30,6 +30,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=regalk13&theme=tokyonight&show_icons=true&locale=en&layout=compact"alt="regalk13"/></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=regalk13&theme=tokyonight&show_icons=true&locale=en" alt="regalk13" /></p>
 
-<a href="https://app.daily.dev/Regalk"><img src="https://api.daily.dev/devcards/0571c52428db4da4bcba9a7e8baa063.png?r=dkd" width="300" alt="Regalk13's Dev Card"/></a>
+<a href="https://app.daily.dev/Regalk"><img src="https://api.daily.dev/devcards/0571c52428db4da4bcba9a7e8baa0633.png?r=dkd" width="300" alt="Regalk13's Dev Card"/></a>
 
 
