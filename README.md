@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Nes Emulator, Python Chess Engine, Minecraft plugins.**
 
-- 🌱 I’m currently learning **Frameworks, Haskell, Haxe, etc...**
+- 🌱 I’m currently learning **Frameworks, Haskell, Haxe, linux configuration.**
 
 - 👯 I’m looking to collaborate on **Open Source.**
 
