@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Salazar</h1>
-<h3 align="center">Full Stack Developer, lover of math and science, Make arch rices on free time</h3>
+<h3 align="center">Full Stack Developer, lover of math and science, Make arch rices on free time, Reading...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=regalk13&label=Profile%20views&color=0e75b6&style=flat" alt="regalk13" /> </p>
 
