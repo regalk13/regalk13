@@ -23,8 +23,8 @@
 <a href="https://linkedin.com/in/juan salazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan salazar" height="30" width="40" /></a>
 </p>
 
-## I'm listening this one
 
+<h3 align="left">I'm listening this one:</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1gvjpv9sghk44s8sigoy0qiw5&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
 
