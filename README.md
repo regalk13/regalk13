@@ -26,7 +26,7 @@
 
 <h3 align="left">I'm listening this one:</h3>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1gvjpv9sghk44s8sigoy0qiw5&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1gvjpv9sghk44s8sigoy0qiw5&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 
 <h3 align="left">Languages and Tools:</h3>
