@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source.**
 
-- 💬 Ask me about **React, python, js stuff, SQL, NO-SQL.**
+- 💬 Ask me about **React, python, js stuff, SQL, NO-SQL**
 
 - 📫 How to reach me Email-Twitter Dm.
 
