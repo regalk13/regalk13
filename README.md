@@ -2,7 +2,7 @@ Hey there, I'm <a  href="https://github.com/regalk13/">Juan Salazar</a>
 
 <img src="https://komarev.com/ghpvc/?username=regalk13&style=plastic" />
 
-I'm a software engineer.Tech and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills.
+Current Software Engineer. 4+ years experience specializing in the backend development, infrastructure automation, and computer hacking/security. Super nerd who loves Vim and Linux, and enjoys to customize all of the development environment. Interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools if the need arises.
 
 - 🌱 I’m currently focusing on **OpenGl C++** and practicing **Data Structures and Algorithms** everyday.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
