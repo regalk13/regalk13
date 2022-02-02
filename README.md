@@ -24,7 +24,7 @@ Current Software Engineer. 4+ years experience specializing in the backend devel
 
 ![github graph](https://activity-graph.herokuapp.com/graph?username=regalk13&theme=react-dark)
 
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=regalk13&theme=dark&hide_border=false" width = 500>
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=regalk13&theme=dark&hide_border=false" width = 500 style="display: flex">
 
-<img src = "https://github-readme-stats.vercel.app/api?username=regalk13&show_icons=true&theme=dark" width = 500>
+<img src = "https://github-readme-stats.vercel.app/api?username=regalk13&show_icons=true&theme=dark" width = 500 style="display: flex">
 
