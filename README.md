@@ -28,4 +28,3 @@ Current Software Engineer. 4+ years experience specializing in the backend devel
 
 <img src = "https://github-readme-stats.vercel.app/api?username=regalk13&show_icons=true&theme=dark" width = 500>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regalk13&theme=dark)](https://github.com/regalk13/github-readme-stats)
