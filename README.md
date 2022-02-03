@@ -6,6 +6,7 @@ Current Software Engineer. 4+ years experience specializing in the backend devel
 
 - 🌱 I’m currently focusing on **OpenGl C++** and practicing **Data Structures and Algorithms** everyday.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
+- 🐍 I will write some tech post [here](https://dev.to/regalk13).
 - ⚡ Fun fact: I use arch btw. 
 
 
