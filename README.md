@@ -22,8 +22,6 @@ Current Software Engineer. 4+ years experience specializing in the backend devel
 ### Db's & Tools:
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" width=43/><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/><img src="https://img.icons8.com/color/48/000000/sql.png"/><img src="https://img.icons8.com/color/48/000000/maria-db.png"/><img src="https://img.icons8.com/color/50/000000/postgreesql.png"/><img src="https://img.icons8.com/color/48/000000/mongodb.png"/><img src="https://img.icons8.com/color/48/4a90e2/git.png"/><img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/><img src="https://img.icons8.com/color/48/000000/linux--v1.png"/></p>
-<br>
-<br>
 
 ## Stats
 
