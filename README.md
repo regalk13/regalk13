@@ -9,18 +9,20 @@ Current Software Engineer. 4+ years experience specializing in the backend devel
 - ⚡ Fun fact: I use arch btw. 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<h4 align="left">FrontEnd:</h4>
+## Languages and Tools
+### FrontEnd:
 <p align="left"> 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><img src="https://img.icons8.com/color/48/000000/sass-avatar.png"/>
-<h4>BackEnd:</h4>
-<p align="left">
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><img src="https://img.icons8.com/color/48/000000/sass-avatar.png"/></p>
+### BackEnd:
+ <p align="left">
 <img src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/><img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/><img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" width=43><img src="https://img.icons8.com/color/48/4a90e2/python--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/fluency/48/000000/node-js.png"width=43/><img src="https://img.icons8.com/color/48/000000/django.png"/></p>
- <h4>Db's & Tools:</h4>
+### Db's & Tools:
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" width=43/><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/><img src="https://img.icons8.com/color/48/000000/sql.png"/><img src="https://img.icons8.com/color/48/000000/maria-db.png"/><img src="https://img.icons8.com/color/50/000000/postgreesql.png"/><img src="https://img.icons8.com/color/48/000000/mongodb.png"/><img src="https://img.icons8.com/color/48/4a90e2/git.png"/><img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/><img src="https://img.icons8.com/color/48/000000/linux--v1.png"/></p>
 <br>
 <br>
+
+## Stats
 
 ![github graph](https://activity-graph.herokuapp.com/graph?username=regalk13&theme=react-dark)
 
