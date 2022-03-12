@@ -25,10 +25,5 @@ Current Software Engineer. 4+ years experience specializing in the backend devel
   <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" width=43/><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/><img src="https://img.icons8.com/color/48/000000/sql.png"/><img src="https://img.icons8.com/color/48/000000/maria-db.png"/><img src="https://img.icons8.com/color/50/000000/postgreesql.png"/><img src="https://img.icons8.com/color/48/000000/mongodb.png"/><img src="https://img.icons8.com/color/48/4a90e2/git.png"/><img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/><img src="https://img.icons8.com/color/48/000000/linux--v1.png"/></p>
 
 ## Stats
-
-![github graph](https://activity-graph.herokuapp.com/graph?username=regalk13&theme=react-dark)
-
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=regalk13&theme=dark&hide_border=false" width = 500 style="display: flex">
-
 <img src = "https://github-readme-stats.vercel.app/api?username=regalk13&show_icons=true&theme=dark" width = 500 style="display: flex">
 
