@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=regalk13&style=plastic" />
 
-Current Software Engineer. specializing in the backend development, infrastructure automation, and computer hacking/security. Super nerd who loves Vim and Linux, and enjoys to customize all of the development environment. Interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools if the need arises.
+Current Software Engineer. some years experience, specializing in the backend development, infrastructure automation, and computer hacking/security. Super nerd who loves Vim and Linux, and enjoys to customize all of the development environment. Interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools if the need arises.
 
 - 🌱 I’m currently focusing on **OpenGL C** and practicing **Data Structures and Algorithms** everyday.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
