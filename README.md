@@ -4,7 +4,7 @@ Welcome to my page!
 
 Current Software Engineer. Some years experience, specializing in the backend development, infrastructure automation, and computer hacking/security. Lover of tools and editors like Neovim and Linux. Interested in devising a better problem-solving method for challenging tasks, and learning new things everyday.
 
-<img align="right" alt="GIF" src="https://media.tenor.com/v1dPoOluqiwAAAAC/ferris-rust.gif" width="500" height="300" />
+<img align="right" alt="GIF" src="https://media.tenor.com/v1dPoOluqiwAAAAC/ferris-rust.gif" width="450" height="300" />
 
 <img src="https://komarev.com/ghpvc/?username=regalk13&style=for-the-badge" />
 
