@@ -1,10 +1,10 @@
-# 🚀  Hey! Nice to see you.
+# Hey! Nice to see you.
 
 Welcome to my page!
 
 Current Software Engineer. Some years experience, specializing in the backend development, infrastructure automation, and computer hacking/security. Lover of tools and editors like Neovim and Linux. Interested in devising a better problem-solving method for challenging tasks, and learning new things everyday.
 
-<img align="right" alt="GIF" src="https://media.tenor.com/xiIukn3v28cAAAAC/solid-snake-metal-gear-solid.gif" width="500" height="300" />
+<img align="right" alt="GIF" src="https://media.tenor.com/QCFRmDsFOyYAAAAM/richter-belmont-alucard.gif" width="500" height="300" />
 
 <img src="https://komarev.com/ghpvc/?username=regalk13&style=for-the-badge" />
 
