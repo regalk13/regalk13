@@ -1,6 +1,6 @@
 # Hey! Nice to see you.
 
-Welcome to my page!
+Welcome to my profile!
 
 Current Software Engineer. Some years experience, specializing in the backend development, infrastructure automation, and computer hacking/security. Lover of editors and tools like Emacs and Linux. Interested in devising a better problem-solving method for challenging tasks, and learning more forever.
 
