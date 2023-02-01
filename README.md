@@ -12,7 +12,7 @@ Current Software Engineer. Some years experience, specializing in the backend de
 
 <a href="https://www.rust-lang.org/"><img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" /></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /></a>
-<a href="https://cplusplus.com/"><img align="left" width="3v5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" /></a>
+<a href="https://cplusplus.com/"><img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" /></a>
 <a href="https://www.python.org/"><img align="left" width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
 <a href="https://www.javascript.com/"><img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>
 <a href="https://www.typescriptlang.org/"><img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
