@@ -4,8 +4,6 @@ Welcome to my profile!
 
 Current Software Engineer. Some years experience, specializing in the backend development, infrastructure automation, and computer graphics. Lover of editors and tools like Emacs and Linux. Interested in devising a better problem-solving method for challenging tasks.
 
-<img align="right" alt="GIF" src="https://media.tenor.com/QCFRmDsFOyYAAAAM/richter-belmont-alucard.gif" width="500" height="300" />
-
 <img src="https://komarev.com/ghpvc/?username=regalk13&style=for-the-badge" />
 
 ---
