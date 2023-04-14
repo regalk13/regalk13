@@ -11,6 +11,7 @@ Current Software Engineer. Some years experience, specializing in the backend de
 ### Language and Tools
 
 <a href="https://www.rust-lang.org/"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" /></a>
+<a href="https://ziglang.org/"><img width="40" src="https://avatars.githubusercontent.com/u/27973237?s=200&v=4" /></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /></a>
 <a href="https://cplusplus.com/"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" /></a>
 <a href="https://www.python.org/"><img width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
