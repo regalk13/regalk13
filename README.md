@@ -4,6 +4,6 @@ I'm (Regalk)! A computer scientist who loves exploring hardware, software, and e
 
 Learn more about me in my [website](https://regalk.dev/).
 
-Read my [posts](https://regalk.dev/blog)
+Read my [posts](https://regalk.dev/blog).
 
 <img src="https://komarev.com/ghpvc/?username=regalk13&style=for-the-badge" />
