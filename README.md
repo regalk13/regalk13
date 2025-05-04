@@ -6,4 +6,10 @@ Learn more about me in my [website](https://regalk.dev/).
 
 Read my [posts](https://regalk.dev/blog).
 
+Checkout my [projects](https://github.com/regalk13?tab=repositories).
+
+My skills include:
+
+
+
 <img src="https://komarev.com/ghpvc/?username=regalk13&style=for-the-badge" />
