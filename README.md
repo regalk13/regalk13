@@ -2,11 +2,11 @@
 
 I'm (Regalk)! A computer scientist who loves exploring hardware, software, and everything in between. From AI hardware to kernel development and I'm interested in brain interfaces, I love building and learning. Oh, and I once competed internationally in web development!
 
-Learn more about me in my [website](https://regalk.dev/).
+Learn more about me in my [Website](https://regalk.dev/).
 
-Read my [posts](https://regalk.dev/blog).
+Read my [Posts](https://regalk.dev/blog).
 
-Checkout my [projects](https://github.com/regalk13?tab=repositories).
+Checkout my [Projects](https://github.com/regalk13?tab=repositories).
 
 My skills include:
 
