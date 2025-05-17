@@ -1,6 +1,6 @@
 :wave: Hello...
 
-I'm (Regalk)! A computer scientist who loves exploring hardware, software, and everything in between. From AI hardware to kernel development and I'm interested in brain interfaces, I love building and learning. Oh, and I once competed internationally in web development!
+Hi, I'm (Regalk)! A computer-scientist student and developer focused on embedded sytems and AI. I’m actively training and pointing to work as an embedded-system engineer and edge-AI developer, after participated internationally in web development!
 
 Learn more about me in my [Website](https://regalk.dev/).
 
