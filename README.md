@@ -16,15 +16,15 @@ My skills include:
 
   <img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/files/c.svg" height="25" alt="C" />
   <img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/files/cpp.svg" height="25" alt="C++" />
-  <img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/files/gnu.svg" height="25" alt="GNU/Linux" />
+  <img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/files/nix.svg" height="25" alt="Nix" />
   <img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/files/haskell.svg" height="25" alt="Haskell" />
   <img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/files/html.svg" height="25" alt="HTML" />
+  <img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/files/gnu.svg" height="25" alt="GNU/Linux" />
   <img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/files/js.svg" height="25" alt="JavaScript" />
   <img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/files/typeScript.svg" height="25" alt="TypeScript" />
   <img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/files/css.svg" height="25" alt="CSS" />
   <img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/files/laravel.svg" height="25" alt="Laravel" />
   <img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/files/lua.svg" height="25" alt="Lua" />
-  <img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/files/nix.svg" height="25" alt="Nix" />
   <img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/files/pgsql.svg" height="25" alt="PostgreSQL" />
   <img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/files/php.svg" height="25" alt="PHP" />
   <img src="https://raw.githubusercontent.com/AtomMaterialUI/iconGenerator/master/assets/icons/files/python.svg" height="25" alt="Python" />
